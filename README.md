@@ -6,7 +6,7 @@
 
 ```yaml
 name        Marvyn
-location    Wetterau, Germany
+location    FFM, Germany
 status      retraining as a Software Developer (2025 - 2027)
 # Umschüler | Fachinformatiker Anwendungsentwicklung
 
