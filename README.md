@@ -13,20 +13,20 @@ status      retraining as a Software Developer (2025 - 2027)
 
 currently_learning = [SQL, Python (Tkinter, pandas), JavaScript, React with Node.js]
 future_goals = [Graduation as Software Developer, Gain the skills of a Full-Stack-Dev]
-hobbies = [3D Modelling, Fitness, Personal Development]
+hobbies = [3D Modelling, Fitness, Mindset]
 
 
-class interests {
-  - Microcontroller
-  - Python
-  - UI/UX
-  - Cybersecurity
+.interests {
   - Databases
+  - Python
+  - User Experience
+  - Cybersecurity
+  - Microcontroller
 }
 
-class technical_skills {
+.technical_skills {
   - Frontend = [HTML, CSS, JavaScript]
-  - Python = [Arduino, Raspberry Pi / Orange Pi, ESP32]
+  - Hardware = [Arduino, Orange Pi, Network]
 }
 
 
