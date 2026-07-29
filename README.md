@@ -4,7 +4,7 @@
 
 </div>
 
-[Mein Portfolio](https://shogunoptout.github.io/webPortfolio/html/)
+  **[Mein Portfolio](https://shogunoptout.github.io/webPortfolio/html/)**
 
 ```yaml
 name        Marvyn
